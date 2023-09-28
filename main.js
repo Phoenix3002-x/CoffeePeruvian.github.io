@@ -1,0 +1,7 @@
+const Inicio = document.querySelector("#Inicio")
+const Cafés = document.querySelector("#Cafés")
+const Instantaneos = document.querySelector("#Instantaneos")
+const Establecimientos = document.querySelector("#Establecimientos")
+const Mas = document.querySelector("#Mas")
+const Blog = document.querySelector("#Blog")
+const ads2 = document.querySelector("#abs2")
