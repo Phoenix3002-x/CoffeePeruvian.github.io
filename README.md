@@ -1,2 +1,1 @@
-#phoenix3002-x.github.io/CoffeePeruvian.github.io
-Café 100% natural
+phoenix3002-x.github.io/CoffeePeruvian.github.io
